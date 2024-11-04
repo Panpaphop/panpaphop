@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 --------------------
 
-* 🌍  I'm based in Buriram
+* 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [My Portfolio](http://my-first-resume-ryu.netlify.app/)
 * ✉️  You can contact me at [panpaphop.p@gmail.com](mailto:panpaphop.p@gmail.com)
 
